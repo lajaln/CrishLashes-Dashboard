@@ -1,0 +1,12 @@
+@font-face {
+  font-family: candleMustard;
+  src: url(../src/assets/fonts/Candle\ Mustard.ttf);
+}
+
+.candle-mustard {
+  font-family: candleMustard;
+}
+
+.font-color {
+  color: orangered;
+}
